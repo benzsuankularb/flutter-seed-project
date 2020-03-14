@@ -3,7 +3,6 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:mobile/stores/counter_store.dart';
 import 'package:provider/provider.dart';
 
-// TODO We should remove this file later, It's a template.
 class HomePage extends StatelessWidget {
   HomePage();
 

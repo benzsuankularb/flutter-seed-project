@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// TODO We should put the real values for our designer here.
-
 //Main Color
 const C4C_COLOR_PRIMARY = Color(0xFFEB9A58);
 const C4C_COLOR_SEONDARY = Color(0xFFEB9A58);

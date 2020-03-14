@@ -6,8 +6,6 @@ class CreateDependenciesSystems extends Feature {
   @override
   List<System> createSystems() {
     return [
-      // To add a new external dependency
-      // Add the new system to initialize dependency here.
       ExampleServiceInitialize(),
     ];
   }
